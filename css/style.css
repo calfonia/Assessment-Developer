@@ -1,0 +1,89 @@
+Body{
+
+font-family: arial;
+border: 100px;
+background-repeat: no-repeat;
+
+}
+td.styleA{
+font-size:38px;
+font-family:Arial;
+font-weight:bold;
+border-bottom: 2px solid blue;
+}
+img{
+border-right:3px;
+}
+td.styleB{
+font-family:Arial;
+font-weight:bold;
+border-bottom: 2px solid black;
+}
+#leftsection{
+float:left;
+}
+#purchaseDiv{
+text-align:bottom;
+}
+h1{
+ font-family: "Comic Sans MS";
+ font-size: 2em;
+ text-align: center;
+ 
+}
+hr.lineTag{
+  height: 15;
+  background-color: black;
+  width: 80%;
+}
+h2.SubTitle{
+ font-family: arial;
+ font-size: 2em;
+ font-style: italic;
+ text-align: center;
+}
+div.mainContentDiv{
+background-color: weight;
+margin-left: 40px;
+margin-right: 40px;
+}
+div.purchaseDiv{
+ font-family: Arial;
+ float:center;
+ text-align: center;
+}
+div.featuresDiv{
+float:left;
+}
+#purchaseOptionsDiv{
+ font-family: Arial;
+ table-layout: center;
+}
+#bookPrice
+{
+  text-align: center;
+}
+#orderConfirmationDiv
+{
+  font-family: Arial;
+  text-align: center;
+}
+.button {
+    background-color: #008CBA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+h2{
+font-family: Arial;
+text-align:left;
+}
+
+
